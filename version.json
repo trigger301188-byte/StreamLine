@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.05",
-  "apkUrl": "https://www.dropbox.com/scl/fi/3ahzi7h36bzdnyy83fqvz/app-debug.apk?rlkey=8l580124a633q5t9l1gsfe35b&st=7x9vazi6&dl=1",
+  "versionCode": 7,
+  "versionName": "1.06",
+  "apkUrl": "https://github.com/trigger301188-byte/StreamLine/releases/tag/1.06",
   "releaseNotes": "Bug fixes and performance updates."
 }
