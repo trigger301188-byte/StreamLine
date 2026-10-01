@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
+  "versionCode": 12,
+  "versionName": "1.11",
   "apkUrl": "https://github.com/trigger301188-byte/StreamLine/releases/download/1.06/app-debug.apk",
   "releaseNotes": "Bug fixes and performance updates."
 }
